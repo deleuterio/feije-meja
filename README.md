@@ -2,7 +2,7 @@
 
 ## Conteúdos:
 - :video_camera:  [**Abuella Grilo**](https://youtu.be/nA_HekKn0Bo)
-- :loud_sound: Capítulo 42 _Evangelho no Ambiente Rural_ de [**Os Mensageiros**](https://youtu.be/5GIXlaKRf50)
+- :loud_sound: [Capítulo 42 _Evangelho no Ambiente Rural_ de **Os Mensageiros**](https://youtu.be/5GIXlaKRf50)
 - :book: Capítulo 41 _Exercíto Poderoso_  de **Alvorada Cristã**
 - :video_camera: Princesa Mononoke - Vamos assistir semana que vem também!
 - :video_camera: [**Abuella Grilo**](https://youtu.be/nA_HekKn0Bo)
