@@ -1,8 +1,12 @@
 # feije-meja
 
 ## Conteúdos:
-- [**Abuella Grilo**](https://youtu.be/nA_HekKn0Bo)
-- [**Cananéia, Iguape e Ilha Comprida** - _Emicida_](https://music.youtube.com/watch?v=D48OpZWNuqw)
+- :video_camera:  [**Abuella Grilo**](https://youtu.be/nA_HekKn0Bo)
+- :loud_sound: Capítulo 42 _Evangelho no Ambiente Rural_ de [**Os Mensageiros**](https://youtu.be/5GIXlaKRf50)
+- :book: Capítulo 41 _Exercíto Poderoso_  de **Alvorada Cristã**
+- :video_camera: Princesa Mononoke - Vamos assistir semana que vem também!
+- :video_camera: [**Abuella Grilo**](https://youtu.be/nA_HekKn0Bo)
+- :loud_sound: [**Cananéia, Iguape e Ilha Comprida** - _Emicida_](https://music.youtube.com/watch?v=D48OpZWNuqw)
 ```md
 [Emicida e (filha)]
 Isso
@@ -86,7 +90,7 @@ Escrevo como quem manda cartas de amor
 (Vai faltar caneta!)
 ```
 
-- [**This is War** - _Thirty Seconds to Mars_](https://music.youtube.com/watch?v=JZRNhm4b13E)
+- :loud_sound: [**This is War** - _Thirty Seconds to Mars_](https://music.youtube.com/watch?v=JZRNhm4b13E)
 ```md
 Isso É Guerra
 
